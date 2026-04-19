@@ -65,7 +65,14 @@ Open the frontend URL shown by Vite (usually `http://localhost:5173`).
 
 ### Backend
 
-- ./mvnw.cmd spring-boot:run 
+- ./mvnw.cmd spring-boot:run
+
+## Screenshots
+
+<img width="818" height="752" alt="Screenshot 2026-04-20 020050" src="https://github.com/user-attachments/assets/e217869a-11e3-4347-970c-e9b7f35ad731" />
+<img width="735" height="702" alt="Screenshot 2026-04-20 020112" src="https://github.com/user-attachments/assets/0e2639ac-fc5a-484d-860f-d190b1146774" />
+<img width="985" height="292" alt="Screenshot 2026-04-20 020207" src="https://github.com/user-attachments/assets/77c8412c-2af4-4eba-8e51-c7bc77c48316" />
+
 
 ## Notes
 
